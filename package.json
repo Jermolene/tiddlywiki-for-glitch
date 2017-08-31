@@ -1,0 +1,23 @@
+{
+  "name": "tiddlywiki-for-glitch",
+  "version": "0.0.1",
+  "description": "TiddlyWiki 5 packaged for using with Glitch",
+  "scripts": {
+    "start": "node node_modules/tiddlywiki/tiddlywiki.js wiki --server"
+  },
+  "dependencies": {
+    "tiddlywiki": "*"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/Jermolene/tiddlywiki-for-glitch"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "tiddlywiki",
+    "wiki"
+  ]
+}

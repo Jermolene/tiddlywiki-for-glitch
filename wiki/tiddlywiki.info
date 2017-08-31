@@ -1,0 +1,14 @@
+{
+	"description": "TiddlyWiki for Glitch",
+	"plugins": [
+	],
+	"themes": [
+		"tiddlywiki/vanilla",
+		"tiddlywiki/snowwhite"
+	],
+	"languages": [
+		"en-GB"
+	],
+	"build": {
+	}
+}
